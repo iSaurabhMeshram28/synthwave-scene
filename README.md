@@ -10,8 +10,7 @@ This project is a visually stunning 3D synthwave scene created with **Three.js**
 
 - 🌌 **Vibrant Neon Aesthetics**: A 3D environment featuring glowing neon grids, retro skies, and more.
 - 🎥 **Three.js Powered**: Built using Three.js to deliver high-performance 3D rendering.
-- 📱 **Responsive Design**: Fully responsive and optimized for various devices.
-- 🛠️ **Customizable**: Easily modify the scene to add your own synthwave-inspired elements.
+- 🛠️ **Customizable**: Easily modify the scene from the control panel.
 
 ## Technologies Used
 
@@ -40,10 +39,6 @@ Follow these steps to set up the project locally:
    ```bash
    npm run start
    ```
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it as per the license terms.
-
 ## Acknowledgments
 
 - Built using the amazing [Three.js](https://threejs.org/) library.
