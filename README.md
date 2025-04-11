@@ -40,18 +40,6 @@ Follow these steps to set up the project locally:
    ```bash
    npm run start
    ```
-
-## Usage
-
-1. Open the project in your web browser.
-2. Explore the 3D synthwave scene.
-3. Customize the scene by editing the JavaScript, CSS, or HTML files as needed.
-
-## Demo
-
-Check out a live demo of the Synthwave Scene here:  
-[Live Demo](#) <!-- Replace with the actual demo URL if available -->
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it as per the license terms.
