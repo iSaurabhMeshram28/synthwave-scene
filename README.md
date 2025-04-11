@@ -1,6 +1,3 @@
-Here's a well-structured `README.md` file for your repository:
-
-```markdown
 # Synthwave Scene
 
 A **Synthwave Scene** built using [Three.js](https://threejs.org/), bringing the vibrant aesthetics of the synthwave genre to life through 3D graphics and animations.
